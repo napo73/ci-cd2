@@ -1,0 +1,3 @@
+[submodule "nnodeapp_rest"]
+	path = nnodeapp_rest
+	url = https://github.com/shazforiot/nodeapp_test.git
